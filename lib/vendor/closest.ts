@@ -30,4 +30,4 @@
 			return null;
 		};
 	}
-})(typeof window !== 'undefined' && window ? window.Element.prototype : {});
+})(typeof window !== 'undefined' && window ? Element.prototype : {});
