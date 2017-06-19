@@ -20,7 +20,7 @@ export const TREE_EVENTS = {
   updateData: 'updateData',
   moveNode: 'moveNode',
   event: 'event',
-  loadChildren: 'loadChildren',
+  'loadChildren': 'loadChildren',
   changeFilter: 'changeFilterr'
 };
 
